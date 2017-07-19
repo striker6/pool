@@ -1,1 +1,3 @@
 choose style
+choose color
+choose flair
